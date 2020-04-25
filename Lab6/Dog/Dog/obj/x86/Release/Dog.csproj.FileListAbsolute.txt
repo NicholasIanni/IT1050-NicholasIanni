@@ -1,0 +1,5 @@
+C:\Users\14408\Downloads\Lab6-StartingFiles\Dog\Dog\bin\Release\Dog.exe
+C:\Users\14408\Downloads\Lab6-StartingFiles\Dog\Dog\bin\Release\Dog.pdb
+C:\Users\14408\Downloads\Lab6-StartingFiles\Dog\Dog\obj\x86\Release\Dog.csproj.CoreCompileInputs.cache
+C:\Users\14408\Downloads\Lab6-StartingFiles\Dog\Dog\obj\x86\Release\Dog.exe
+C:\Users\14408\Downloads\Lab6-StartingFiles\Dog\Dog\obj\x86\Release\Dog.pdb
