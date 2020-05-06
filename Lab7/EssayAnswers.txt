@@ -1,0 +1,27 @@
+3. Before creating a constructor method of our own, a class has a default constructor method. You don’t need to write any code. C# creates it behind the scenes the for us. What is an advantage to creating our own constructor methods?
+
+	An advantage to creating our own constructor methods is saving time and lines of code. When we create our own constructor method it allows us to declare new objects and pass them field values by
+	simply calling the method and declaring the values as parameters of the method.
+	This saves us the time of declaring each value line by line each time we create a new object.
+
+4. What concept would we be practicing if we created two new constructor methods?
+
+	Creating more than one method constructor is known as constructor overloading. It is used when you want to pass different parameters or a different number of parameters.
+
+5. Why is it important to use exception handling? 
+
+	It is important to use exception handling because it gives us a way to control a runtime programming error in a controlled and structured manner. 
+	Exception handling allows the user to understand why their action was not acceptable and how they can correct their action to allow for successful continuation of the program.
+
+
+6. What’s the purpose of private vs. public when we’re adding new properties and/or methods to our class? How does this apply to information hiding? 
+
+	The purpose of private vs. public when adding new properties and/or methods to a class is to set the access modifier/scope of the methods/attributes to determine whether or not they will accessible only to the class you are using it in 
+	(private) or the class you are using it in and all other classes (public).This applies to information hiding as information hiding is implemented using the private access modifier to make the attached information only available to the class it is.
+	Getter/Setter methods can be used with information hiding for attributes that need to be readable/updateable by other classes.
+
+7. Composition is a basic concept where one of the properties of a class is an object (instead of a simple type like int). How could we use Composition in our Book class?  
+
+	We could use composition in our Book class by making author an object so that we can store information for each author, but still use it as a basic output to tell the author of a particular book. 
+	This way we could set the genre that each author is known for and use it another bit of code to to list all popular authors of a particular genre.
+
